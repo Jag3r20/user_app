@@ -1,0 +1,1 @@
+Tato webová aplikace slouží k evidenci narozenin přátel a rodiny, aby uživatelé na tyto důležité události nezapomínali. Je vytvořena pomocí HTML, CSS pro uživatelské rozhraní, PHP pro zpracování na straně serveru a MySQL jako databáze spravovaná v phpMyAdmin. Systém podporuje dvě úrovně uživatelských práv 
