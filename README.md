@@ -14,3 +14,4 @@ Systém podporuje dvě úrovně uživatelských práv:
 2. **Administrátor** – má rozšířené možnosti správy uživatelů a dat.
 
 Tato aplikace pomáhá uživatelům lépe organizovat a pamatovat si narozeniny svých blízkých.
+![image](https://github.com/user-attachments/assets/2ed2632d-4d39-4ede-8948-136653667334)
